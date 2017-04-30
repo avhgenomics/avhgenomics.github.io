@@ -24,7 +24,10 @@ description: A site for discussing projects
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+  Projects:
+    - Projects Home: "projects"
+  Data:
+    - Human Resources: "hra"
   Resources:
     - ENCODE: "https://www.encodeproject.org"
     - Bioconductor: "https://www.bioconductor.org"
