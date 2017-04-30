@@ -3,7 +3,7 @@ layout: page
 title: Human Resources Analytics
 subtitle: Data Exploration of the Kaggle HRA dataset
 bigimg: /img/path.jpg
-published: yes
+published: no
 ---
 
 This is [Kaggle's Human Resources Analytics Dataset](https://www.kaggle.com/ludobenistant/hr-analytics).  
