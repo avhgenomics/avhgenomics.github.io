@@ -23,7 +23,9 @@ description: A site for discussing projects
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - About: "aboutme"
+    - Publications: "https://scholar.google.ca/citations?user=hg4NE-YAAAAJ&hl=en"
   Projects:
     - Projects Home: "projects"
   Data:
