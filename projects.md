@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 subtitle: Side projects and ideas
+published: no
 ---
 
 # Photoshop
