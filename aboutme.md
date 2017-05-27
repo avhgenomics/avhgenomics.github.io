@@ -4,8 +4,22 @@ title: About me
 subtitle: Content eventually
 ---
 
-Hello, here is a website.
+# Education
 
-### What would you like to know?
+I am currently a PhD student studying the effects of heavy metal exposure.
 
-In the meantime, have a look [here](https://www.google.com)
+# Publications
+
+I will provide links to each publication with attached summaries
+
+# Highlights
+
+Class I animal training, venomous.
+
+# Certifications / Training
+
+PADI Certified Divemaster
+
+# Other
+
+Will put some interesting things here.
