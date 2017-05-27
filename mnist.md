@@ -51,3 +51,19 @@ Surprisingly, this resulted in a high degree of accuracy on the test set,0.96771
 * One interesting piece of information that is returned is the "Importance" of each variable in the classification.  Initially just a row of 784 numbers, we can do as before and turn this into a 28x28 grid, then plotted to see what parts of the image play large roles in determining the label.  
 
 ![Importance.bm](/img/data/mnist/plots/importance_nocol_lines_benchmark.png)
+
+# The Current Model: Implementing a Neural Net through H2O and R
+
+## The Setup
+
+[H2O](https://www.h2o.ai) is a system that can work through R to implement a wide range of machine learning algorithms.  To get started with this, we first need to import the data and prepare it for modeling.
+
+{% highlight R %}
+
+library(h2o)
+localH2O = h2o.init(nthreads=-1)
+
+train <- h2o.importFile("input/train.csv")
+test <- h2o.importFile("input/test.csv")
+
+{% endhighlight %}
