@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Content eventually
+published: no
 ---
 
 # Education
