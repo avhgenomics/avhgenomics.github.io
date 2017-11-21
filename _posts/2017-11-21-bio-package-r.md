@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AVBio Package (R) now has basic support for Bedtools
-subtitle: *sortBed* implemented, with plans to create generalized function
+title: AVBio Package now has basic support for Bedtools
+subtitle: sortBed implemented, with plans to create generalized function
 bigimg: /img/path.jpg
 ---
 
