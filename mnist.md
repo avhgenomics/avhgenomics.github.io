@@ -2,7 +2,7 @@
 layout: page
 title: Recognizing Handwritten Digits using Machine Learning
 subtitle: Explanations and visualizations of my submissions to Kaggle's MNIST competition
-bigimg: /img/path.jpg
+bigimg: /img/cube_34401440.png
 published: yes
 ---
 
