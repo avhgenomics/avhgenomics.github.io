@@ -2,7 +2,7 @@
 layout: post
 title: R Package for common lab calculations
 subtitle: The AVBio package, written for R, is an evolving compendium of common functions that I have written while making protocols more efficient and informative.
-bigimg: /img/path.jpg
+bigimg: /img/implosion_3440x1440.png
 ---
 
  *The AVBio Package*
