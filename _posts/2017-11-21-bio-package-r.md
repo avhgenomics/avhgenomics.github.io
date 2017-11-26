@@ -2,7 +2,7 @@
 layout: post
 title: AVBio Package now has basic support for Bedtools
 subtitle: sortBed implemented, with plans to create generalized function
-bigimg: /img/implosion_3440x1440.png
+bigimg: /img/implodev3_recolor_compressed.jpg
 ---
 
  **Developing a basic Bedtools wrapper for various projects**
