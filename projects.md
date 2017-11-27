@@ -17,7 +17,7 @@ css: /css/image_gallery.css
   <a href="/img/cube_34401440.png"></a>
 </figure>
 
-<figure class="snip1585 hover"><img src="/img/implodev3_recolor_compressed.jpg" alt="sample106" />
+<figure class="snip1585"><img src="/img/implodev3_recolor_compressed.jpg" alt="sample106" />
   <figcaption>
     <h3><span>Animation</span> Nodes</h3>
   </figcaption>
