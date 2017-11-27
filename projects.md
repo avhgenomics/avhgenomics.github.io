@@ -30,3 +30,52 @@ css: /css/image_gallery.css
   </figcaption>
   <a href="/img/implosion_3440x1440.png"></a>
 </figure>
+
+<figure class="snip1585">
+  <img src="/img/cave.png" alt="sample70" />
+  <figcaption>
+    <h3>Cave <span>Tutorial</span></h3>
+  </figcaption>
+  <a href="/img/cave.png"></a>
+</figure>
+
+<figure class="snip1585">
+  <img src="/img/donut.png" alt="sample70" />
+  <figcaption>
+    <h3>Donut <span>Tutorial</span></h3>
+  </figcaption>
+  <a href="/img/donut.png"></a>
+</figure>
+
+<figure class="snip1585">
+  <img src="/img/grassyfield01.png" alt="sample70" />
+  <figcaption>
+    <h3>Grassy Field <span>Tutorial</span></h3>
+  </figcaption>
+  <a href="/img/grassyfield01.png"></a>
+</figure>
+
+<figure class="snip1585">
+  <img src="/img/furballs_1.png" alt="sample70" />
+  <figcaption>
+    <h3>Furballs <span>Tutorial</span></h3>
+  </figcaption>
+  <a href="/img/furballs_1.png"></a>
+</figure>
+
+<figure class="snip1585">
+  <img src="/img/raindropsfull.png" alt="sample70" />
+  <figcaption>
+    <h3>Rain Drops <span>Tutorial</span></h3>
+  </figcaption>
+  <a href="/img/raindropsfull.png"></a>
+</figure>
+
+
+<figure class="snip1585">
+  <img src="/img/towel.png" alt="sample70" />
+  <figcaption>
+    <h3>Towel <span>Tutorial</span></h3>
+  </figcaption>
+  <a href="/img/towel.png"></a>
+</figure>
