@@ -2,14 +2,10 @@
 layout: page
 title: Projects
 subtitle: Side projects and ideas
-published: no
+googlefonts: ["Raleway"]
+published: yes
 ---
 
-# Photoshop
-Image from telescope taken a year ago
+# Blender
 
-![M42](img\M42WIP.jpg)
-
-### What would you like to know?
-
-In the meantime, have a look [here](https://www.google.com)
+Testing google font
