@@ -32,6 +32,14 @@ css: /css/image_gallery.css
 </figure>
 
 <figure class="snip1585">
+  <img src="/img/furballs_1.png" alt="sample70" />
+  <figcaption>
+    <h3>Furballs <span>Tutorial</span></h3>
+  </figcaption>
+  <a href="/img/furballs_1.png"></a>
+</figure>
+
+<figure class="snip1585">
   <img src="/img/cave.png" alt="sample70" />
   <figcaption>
     <h3>Cave <span>Tutorial</span></h3>
@@ -55,13 +63,6 @@ css: /css/image_gallery.css
   <a href="/img/grassyfield01.png"></a>
 </figure>
 
-<figure class="snip1585">
-  <img src="/img/furballs_1.png" alt="sample70" />
-  <figcaption>
-    <h3>Furballs <span>Tutorial</span></h3>
-  </figcaption>
-  <a href="/img/furballs_1.png"></a>
-</figure>
 
 <figure class="snip1585">
   <img src="/img/raindropsfull.png" alt="sample70" />
