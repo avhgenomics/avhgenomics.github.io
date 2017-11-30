@@ -14,7 +14,7 @@ css: /css/image_gallery.css
   <figcaption>
     <h3><span>Planet</span> Render</h3>
   </figcaption>
-  <a href="/img/cube_34401440.png"></a>
+  <a href="/img/adv_planet_plain_compressed3440x1440.png"></a>
 </figure>
 
 <figure class="snip1585">
