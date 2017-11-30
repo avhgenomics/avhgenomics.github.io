@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Blender
 subtitle: Side projects and ideas
 googlefonts: ["Raleway"]
 published: yes
