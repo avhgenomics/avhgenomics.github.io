@@ -10,6 +10,14 @@ css: /css/image_gallery.css
 # Blender
 
 <figure class="snip1585">
+  <img src="/img/adv_planet_plain_compressed3440x1440.png" alt="sample70" />
+  <figcaption>
+    <h3><span>Planet</span> Render</h3>
+  </figcaption>
+  <a href="/img/cube_34401440.png"></a>
+</figure>
+
+<figure class="snip1585">
   <img src="/img/cube_34401440.png" alt="sample70" />
   <figcaption>
     <h3>Cubes <span>Tutorial</span></h3>
