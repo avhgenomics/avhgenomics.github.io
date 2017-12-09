@@ -114,3 +114,12 @@
   -webkit-transition-delay: 0.1s;
   transition-delay: 0.1s;
 }
+
+.parallax {
+  background-image: url("img\adv_planet_initial_scene.png");
+  height: 1em;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
