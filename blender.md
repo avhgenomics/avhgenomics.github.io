@@ -9,7 +9,6 @@ css: /css/image_gallery.css
 
 # Blender
 
-<div class="parallax">
 <figure class="snip1585">
   <img src="/img/adv_planet_plain_compressed3440x1440.png" alt="sample70" />
   <figcaption>
@@ -89,7 +88,3 @@ css: /css/image_gallery.css
   </figcaption>
   <a href="/img/towel.png"></a>
 </figure>
-
-
-
-</div>
