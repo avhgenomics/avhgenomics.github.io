@@ -9,6 +9,7 @@ css: /css/image_gallery.css
 
 # Blender
 
+<section class="para-box">
 <figure class="snip1585">
   <img src="/img/adv_planet_plain_compressed3440x1440.png" alt="sample70" />
   <figcaption>
@@ -71,7 +72,6 @@ css: /css/image_gallery.css
   <a href="/img/grassyfield01.png"></a>
 </figure>
 
-
 <figure class="snip1585">
   <img src="/img/raindropsfull.png" alt="sample70" />
   <figcaption>
@@ -88,3 +88,5 @@ css: /css/image_gallery.css
   </figcaption>
   <a href="/img/towel.png"></a>
 </figure>
+
+</section>
