@@ -132,3 +132,11 @@
   position: top center;
   attachment: fixed;
 }
+
+html {
+  background: url("/img/adv_planet_initial_scene.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
