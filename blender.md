@@ -9,9 +9,18 @@ css: /css/image_gallery.css
 
 # Blender
 
-<section class="para-box">
+<section>
+
 <figure class="snip1585">
-  <img src="/img/adv_planet_plain_compressed3440x1440.png" alt="sample70" />
+  <img src="/img/adv_planet_initial_scene.png" alt="" />
+  <figcaption>
+    <h3><span>Planet</span> Render</h3>
+  </figcaption>
+  <a href="/img/adv_planet_initial_scene.png"></a>
+</figure>
+
+<figure class="snip1585">
+  <img src="/img/adv_planet_plain_compressed3440x1440.png" alt="" />
   <figcaption>
     <h3><span>Planet</span> Render</h3>
   </figcaption>
@@ -19,21 +28,21 @@ css: /css/image_gallery.css
 </figure>
 
 <figure class="snip1585">
-  <img src="/img/cube_34401440.png" alt="sample70" />
+  <img src="/img/cube_34401440.png" alt="" />
   <figcaption>
     <h3>Cubes <span>Tutorial</span></h3>
   </figcaption>
   <a href="/img/cube_34401440.png"></a>
 </figure>
 
-<figure class="snip1585"><img src="/img/implodev3_recolor_compressed.jpg" alt="sample106" />
+<figure class="snip1585"><img src="/img/implodev3_recolor_compressed.jpg" alt="" />
   <figcaption>
     <h3><span>Animation</span> Nodes</h3>
   </figcaption>
   <a href="/img/implodev3_recolor_compressed.jpg"></a>
 </figure>
 
-<figure class="snip1585"><img src="/img/implosion_3440x1440.png" alt="sample109" />
+<figure class="snip1585"><img src="/img/implosion_3440x1440.png" alt="" />
   <figcaption>
     <h3><span>Animation</span> Nodes</h3>
   </figcaption>
@@ -41,7 +50,7 @@ css: /css/image_gallery.css
 </figure>
 
 <figure class="snip1585">
-  <img src="/img/furballs_1.png" alt="sample70" />
+  <img src="/img/furballs_1.png" alt="" />
   <figcaption>
     <h3>Furballs <span>Tutorial</span></h3>
   </figcaption>
@@ -49,7 +58,7 @@ css: /css/image_gallery.css
 </figure>
 
 <figure class="snip1585">
-  <img src="/img/cave.png" alt="sample70" />
+  <img src="/img/cave.png" alt="" />
   <figcaption>
     <h3>Cave <span>Tutorial</span></h3>
   </figcaption>
@@ -57,7 +66,7 @@ css: /css/image_gallery.css
 </figure>
 
 <figure class="snip1585">
-  <img src="/img/donut.png" alt="sample70" />
+  <img src="/img/donut.png" alt="" />
   <figcaption>
     <h3>Donut <span>Tutorial</span></h3>
   </figcaption>
@@ -65,7 +74,7 @@ css: /css/image_gallery.css
 </figure>
 
 <figure class="snip1585">
-  <img src="/img/grassyfield01.png" alt="sample70" />
+  <img src="/img/grassyfield01.png" alt="" />
   <figcaption>
     <h3>Grassy Field <span>Tutorial</span></h3>
   </figcaption>
@@ -73,7 +82,7 @@ css: /css/image_gallery.css
 </figure>
 
 <figure class="snip1585">
-  <img src="/img/raindropsfull.png" alt="sample70" />
+  <img src="/img/raindropsfull.png" alt="" />
   <figcaption>
     <h3>Rain Drops <span>Tutorial</span></h3>
   </figcaption>
@@ -82,7 +91,7 @@ css: /css/image_gallery.css
 
 
 <figure class="snip1585">
-  <img src="/img/towel.png" alt="sample70" />
+  <img src="/img/towel.png" alt="" />
   <figcaption>
     <h3>Towel <span>Tutorial</span></h3>
   </figcaption>
