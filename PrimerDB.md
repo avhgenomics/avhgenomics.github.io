@@ -8,7 +8,6 @@ published: yes
 
 # What is PrimerDB?
 
-<section>
 [PrimerDB](https://www.avonhan.shinyapps.io/primer_dashboard/) is a project I started developing when our group began the process of updating / reorganizing our collection of primers.  As time goes on, tubes inevitably get placed in wrong locations, etc. PrimerDB was made to create an easy to search, efficient database that can be updated in a streamlined format.
 
 
@@ -16,11 +15,9 @@ Many labs utilize an Excel file to maintain these records, which is ideal for se
 
 
 To this end, PrimerDB was made to address this.  While not a true database, this can utilize a variety of different functions in Shiny to generate lists, quickly find what people are looking for, and provide additional statistics about the health of the current DB; all while working off a local csv file.
-</section>
+
 
 # Why use PrimerDB instead of Excel?
-
-<section>
 
 Excel is an acceptable solution to maintaining a record of primer locations; however, spreadsheets have several shortcomings.
 
@@ -47,5 +44,3 @@ PrimerDB works using R and Shiny to query a csv file containing a list of all pr
 [Check out the PrimerDB!](https://www.avonhan.shinyapps.io/primer_dashboard/)
 
 (Example csv sets to be provided soon.)
-
-</section>
