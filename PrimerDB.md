@@ -3,6 +3,7 @@ layout: page
 title: PrimerDB
 subtitle: Increasing the functionality and accessibility of primer storage
 googlefonts: ["Raleway"]
+bigimg: /img/adv_planet_initial_scene.png
 published: yes
 ---
 
