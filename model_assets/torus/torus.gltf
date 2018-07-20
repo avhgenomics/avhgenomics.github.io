@@ -1,0 +1,477 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5123,
+            "count" : 3840,
+            "max" : [
+                1750
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 1751,
+            "max" : [
+                2.5461153984069824,
+                1.484774112701416,
+                3.2030553817749023
+            ],
+            "min" : [
+                -3.498255729675293,
+                -1.4793550968170166,
+                -3.202956199645996
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 1751,
+            "max" : [
+                0.999969482421875,
+                0.9702749848365784,
+                0.9560533165931702
+            ],
+            "min" : [
+                -0.999969482421875,
+                -0.9786675572395325,
+                -0.9503769278526306
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 1751,
+            "max" : [
+                0.9982185363769531,
+                0.7067687511444092,
+                0.9931854605674744,
+                1.0
+            ],
+            "min" : [
+                -0.9962959289550781,
+                -0.7341529726982117,
+                -0.9873326420783997,
+                1.0
+            ],
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 1751,
+            "max" : [
+                12.287616729736328,
+                1.0
+            ],
+            "min" : [
+                -8.309715270996094,
+                0.0
+            ],
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5121,
+            "count" : 6,
+            "max" : [
+                3
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                1.0,
+                0.0,
+                1.0
+            ],
+            "min" : [
+                -1.0,
+                0.0,
+                -1.0
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                0.0,
+                1.0,
+                -0.0
+            ],
+            "min" : [
+                0.0,
+                1.0,
+                -0.0
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5121,
+            "count" : 6,
+            "max" : [
+                3
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                1.0,
+                0.0,
+                1.0
+            ],
+            "min" : [
+                -1.0,
+                0.0,
+                -1.0
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                0.0,
+                1.0,
+                -0.0
+            ],
+            "min" : [
+                0.0,
+                1.0,
+                -0.0
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5121,
+            "count" : 6,
+            "max" : [
+                3
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                1.0,
+                0.0,
+                1.0
+            ],
+            "min" : [
+                -1.0,
+                0.0,
+                -1.0
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                0.0,
+                1.0,
+                -0.0
+            ],
+            "min" : [
+                0.0,
+                1.0,
+                -0.0
+            ],
+            "type" : "VEC3"
+        }
+    ],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 7680,
+            "byteOffset" : 0,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 21012,
+            "byteOffset" : 7680,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 21012,
+            "byteOffset" : 28692,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 28016,
+            "byteOffset" : 49704,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 14008,
+            "byteOffset" : 77720,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6,
+            "byteOffset" : 91728,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 91736,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 91784,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6,
+            "byteOffset" : 91832,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 91840,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 91888,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6,
+            "byteOffset" : 91936,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 91944,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 91992,
+            "target" : 34962
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 92040,
+            "uri" : "torus.bin"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Torus Knot",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2,
+                        "POSITION" : 1,
+                        "TANGENT" : 3,
+                        "TEXCOORD_0" : 4
+                    },
+                    "indices" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Plane",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 7,
+                        "POSITION" : 6
+                    },
+                    "indices" : 5
+                }
+            ]
+        },
+        {
+            "name" : "Plane.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 10,
+                        "POSITION" : 9
+                    },
+                    "indices" : 8
+                }
+            ]
+        },
+        {
+            "name" : "Plane.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 13,
+                        "POSITION" : 12
+                    },
+                    "indices" : 11
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "children" : [
+                2,
+                3,
+                4
+            ],
+            "name" : "BezierCircle",
+            "rotation" : [
+                0.04197739437222481,
+                0.13158805668354034,
+                -0.22734862565994263,
+                0.9639683961868286
+            ],
+            "scale" : [
+                5.235024452209473,
+                5.235024929046631,
+                5.235024452209473
+            ]
+        },
+        {
+            "name" : "Camera",
+            "rotation" : [
+                0.5958322286605835,
+                0.3984117805957794,
+                -0.4363469183444977,
+                0.54392409324646
+            ],
+            "scale" : [
+                0.9999999403953552,
+                1.0,
+                1.0
+            ],
+            "translation" : [
+                12.800676345825195,
+                -1.0115257501602173,
+                3.8801205158233643
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Plane",
+            "rotation" : [
+                0.7071068286895752,
+                8.618741276222863e-09,
+                -1.7237483662668751e-09,
+                0.7071067094802856
+            ],
+            "scale" : [
+                0.19102108478546143,
+                0.19102106988430023,
+                0.19102108478546143
+            ],
+            "translation" : [
+                4.470348358154297e-08,
+                0.0,
+                0.21319973468780518
+            ]
+        },
+        {
+            "mesh" : 3,
+            "name" : "Plane.001",
+            "rotation" : [
+                -1.4307109097444481e-07,
+                0.7071067094802856,
+                -0.7071068286895752,
+                -1.4651860169578867e-07
+            ],
+            "scale" : [
+                0.19102106988430023,
+                0.19102108478546143,
+                0.19102106988430023
+            ],
+            "translation" : [
+                -1.341104507446289e-07,
+                0.0,
+                -2.2131996154785156
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "Plane.002",
+            "rotation" : [
+                -1.6576687755787134e-07,
+                1.0,
+                -0.0,
+                -9.141555779024202e-08
+            ],
+            "scale" : [
+                0.19102106988430023,
+                0.19102106988430023,
+                0.19102106988430023
+            ],
+            "translation" : [
+                -8.940696716308594e-08,
+                0.9273785948753357,
+                -0.9999998807907104
+            ]
+        },
+        {
+            "children" : [
+                0
+            ],
+            "mesh" : 0,
+            "name" : "Torus Knot"
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                5,
+                1
+            ]
+        }
+    ]
+}
