@@ -7,11 +7,10 @@
   <a-scene embedded arjs>
     <!-- create your content here. just a box for now -->
     <a-assets>
-    <a-asset-item id="torus" src="model_assets/torus/torus.gltf"></a-asset-item>
+    <a-asset-item id="torus" src="https://github.com/avhgenomics/avhgenomics.github.io/blob/master/model_assets/torus/torus.gltf"></a-asset-item>
     </a-assets>
-    
+
     <a-entity gltf-model="#torus" scale="0.01 0.01 0.01"></a-entity>
-    <a-text value="Just Testing"></a-text>
     <!-- define a camera which will move according to the marker position -->
     <a-marker-camera preset='hiro'></a-marker-camera>
   </a-scene>
